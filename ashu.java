@@ -16,6 +16,7 @@ System.out.println("Odd");
 else
 {
 System.out.println("Invalid");
+System.out.println("ge");
 }
 }
 }
